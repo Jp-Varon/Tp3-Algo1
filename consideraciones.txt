@@ -1,0 +1,3 @@
+1) en caso de que el usuario cree una configuracion propia pero quiera usar alguna de las configuraciones por defecto en el fallo y el critico de los defensores, cuando comience el juego, se le pedira al usuario contestar todas las preguntas del tp 1.
+2) se tomo que pre_condicion que el archivo de caminos tiene que estar ordenado por nivel y por caminos.
+3) en caso que el usuario no ingrese ningun camando principal, el peograma no hara nada.
